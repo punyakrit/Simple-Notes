@@ -35,7 +35,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
-    //dependencies
     //material design
     implementation 'com.google.android.material:material:1.2.1'
 
@@ -55,11 +54,9 @@ dependencies {
     implementation 'com.makeramen:roundedimageview:2.3.0'
 
     //crop image library
-
     implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
 
     //easy permission
-
     implementation 'pub.devrel:easypermissions:3.0.0'
 
     //coroutines core
